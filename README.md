@@ -1,6 +1,6 @@
 # Awesome Cybersecurity Blue Team [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-> A collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
+A collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
 
 ## Contents
 
